@@ -1,0 +1,4 @@
+SELECT * FROM student;
+SELECT * FROM STUDENT fetch first 50 ROWS ONLY;
+SELECT name FROM student;
+SELECT DISTINCT AMOUNT FROM payment;

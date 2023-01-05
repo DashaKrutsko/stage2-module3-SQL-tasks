@@ -70,7 +70,7 @@ University;**" query in the script, only queries to create tables should be adde
 
 - Art and music for 1 grade;
 - Geography and history for 2 grade;
-- PE and math for 3 grade;
+- PE and math for 3 grade;PAYMENT
 - Science and IT for 4 grade.
 - Insert 2 subjects for 5 grade.
 
